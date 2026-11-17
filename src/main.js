@@ -5,7 +5,7 @@ import viteLogo from './assets/vite.svg'
 import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
-<section id="center">
+ 
   <div class="grid grid-flow-col grid-rows-4 gap-4">
   <div>01</div>
   <!-- ... -->
